@@ -1,0 +1,8 @@
+{
+  "name": "Paty Lanches",
+  "description": "Cardapio interativo e pedidos para a lanchonete Paty Lanches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
